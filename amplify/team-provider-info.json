@@ -1,0 +1,19 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "roadmap-prod-20190601163942-authRole",
+            "UnauthRoleArn": "arn:aws:iam::033205456844:role/roadmap-prod-20190601163942-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::033205456844:role/roadmap-prod-20190601163942-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "roadmap-prod-20190601163942-deployment",
+            "UnauthRoleName": "roadmap-prod-20190601163942-unauthRole",
+            "StackName": "roadmap-prod-20190601163942",
+            "StackId": "arn:aws:cloudformation:us-west-2:033205456844:stack/roadmap-prod-20190601163942/878bd4f0-84c6-11e9-8a80-0a3886949eaa"
+        },
+        "categories": {
+            "auth": {
+                "roadmap9a4ae0f2": {}
+            }
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "AppSyncApiName": "roadmap",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "AuthCognitoUserPoolId": {
+        "Fn::GetAtt": [
+            "authroadmap9a4ae0f2",
+            "Outputs.UserPoolId"
+        ]
+    }
+}

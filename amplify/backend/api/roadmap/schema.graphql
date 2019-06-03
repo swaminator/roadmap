@@ -1,0 +1,17 @@
+type Service @model {
+  id: ID!
+  name: String!
+  roadmap: [Feature] @connection(name: "ServiceFeatures")
+}
+type Feature @model @auth(rules: [{allow: owner, groups: ["ServiceOwner"]}]) {
+  id: ID!
+  title: String!
+  description: String!
+  service: Service @connection(name: "ServiceFeatures")
+  comments: [Comment] @connection(name: "FeatureComments")
+}
+type Comment @model {
+  id: ID!
+  content: String
+  comment: Comment @connection(name: "FeatureComments")
+}
