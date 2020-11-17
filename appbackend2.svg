@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="279px" height="205px" viewBox="0 0 279 205" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 12</title>
+    <defs>
+        <path d="M155.530365,47.7745807 C155.530365,19.1974595 124.625225,4.90802548 101.109001,18.2751097 C74.8204035,-16.2937913 19.4708364,0.759198358 19.4708364,47.7745807 C-12.3555142,62.0634907 -3.13116906,110 32.3829968,110 L142.617155,110 C178.130098,110 187.356191,62.0640147 155.529316,47.7745807 L155.530365,47.7745807 Z" id="path-1"></path>
+        <filter x="-7.4%" y="-10.0%" width="114.9%" height="123.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.505882353   0 0 0 0 0.505882353   0 0 0 0 0.505882353  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M155.530365,47.7745807 C155.530365,19.1974595 124.625225,4.90802548 101.109001,18.2751097 C74.8204035,-16.2937913 19.4708364,0.759198358 19.4708364,47.7745807 C-12.3555142,62.0634907 -3.13116906,110 32.3829968,110 L142.617155,110 C178.130098,110 187.356191,62.0640147 155.529316,47.7745807 L155.530365,47.7745807 Z" id="path-3"></path>
+        <filter x="-7.4%" y="-10.0%" width="114.9%" height="123.6%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.505882353   0 0 0 0 0.505882353   0 0 0 0 0.505882353  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Dracarys" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Amplify-Service-home-page" transform="translate(-440.000000, -941.000000)">
+            <g id="Group-12" transform="translate(448.000000, 947.000000)">
+                <g id="Group-9">
+                    <g id="Fill-1">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <text id="STAGING" font-family="Helvetica" font-size="12" font-weight="normal" letter-spacing="2.3" fill="#808080">
+                        <tspan x="55" y="90">STAGING</tspan>
+                    </text>
+                </g>
+                <g id="Group-9-Copy" transform="translate(88.000000, 79.000000)">
+                    <g id="Fill-1">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    </g>
+                    <text id="PROD" font-family="Helvetica" font-size="12" font-weight="normal" letter-spacing="2.3" fill="#808080">
+                        <tspan x="65" y="90">PROD</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
