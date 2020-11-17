@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="245px" height="214px" viewBox="0 0 245 214" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>appbackend</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="195" height="180" rx="8"></rect>
+        <filter x="-7.4%" y="-6.9%" width="114.9%" height="116.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.505882353   0 0 0 0 0.505882353   0 0 0 0 0.505882353  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="74.916705%" y1="46.3075319%" x2="18.2326755%" y2="66.8987449%" id="linearGradient-3">
+            <stop stop-color="#FFC300" offset="0%"></stop>
+            <stop stop-color="#F47A19" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="0" y="0" width="154" height="88" rx="8"></rect>
+        <filter x="-9.4%" y="-14.2%" width="118.8%" height="133.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.506255661   0 0 0 0 0.506255661   0 0 0 0 0.506255661  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Dracarys" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Amplify-Service-home-page" transform="translate(-130.000000, -939.000000)">
+            <g id="appbackend" transform="translate(139.000000, 946.000000)">
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="Group" transform="translate(19.000000, 14.000000)">
+                    <path d="M2.84723671,2.37160959 L3.5691278,3.54530822 L2.16217993,5.83119178 L4.97504821,5.83119178 L5.69395968,7 L0,7 L2.00641749,3.73771233 L2.84723671,2.37160959 Z M5.69285003,0 L10,7 L8.61092988,7 L4.30552659,0 L5.69285003,0 Z M3.91974227,0.626912329 L7.84241793,6.99998082 L6.45324507,6.99998082 L3.22661997,1.75381644 L3.91974227,0.626912329 Z" id="Fill-1" fill="url(#linearGradient-3)"></path>
+                    <polyline id="Fill-1" points="0 7 5.71428571 7 4.99280791 5.80851064 2.16989838 5.80851064"></polyline>
+                </g>
+                <text id="AUTH-DATASTORE-API-S" font-family="Helvetica" font-size="6" font-weight="normal" letter-spacing="0.85" fill="#575757">
+                    <tspan x="10" y="48">AUTH</tspan>
+                    <tspan x="10" y="58.3"></tspan>
+                    <tspan x="10" y="68.6">DATASTORE</tspan>
+                    <tspan x="10" y="78.9"></tspan>
+                    <tspan x="10" y="89.2">API</tspan>
+                    <tspan x="10" y="99.5"></tspan>
+                    <tspan x="10" y="109.8">STORAGE</tspan>
+                    <tspan x="10" y="120.1"></tspan>
+                    <tspan x="10" y="130.4">PREDICTIONS</tspan>
+                    <tspan x="10" y="140.7"></tspan>
+                    <tspan x="10" y="151">ANALYTICS</tspan>
+                    <tspan x="10" y="161.3"></tspan>
+                </text>
+                <text id="ADMIN-UI" font-family="Helvetica" font-size="12" font-weight="normal" letter-spacing="2.3" fill="#808080">
+                    <tspan x="65" y="20">ADMIN UI</tspan>
+                </text>
+                <path d="M115.4,121 C117.280986,120.995461 118.851507,122.450017 119,124.345463 L119,157.654537 C118.851496,159.549983 117.280986,161.004528 115.4,161 L68.6,161 C66.7190144,161.004535 65.1484929,159.549983 65,157.654537 L65,124.345463 C65.1485043,122.450017 66.7190144,120.995472 68.6,121 L115.4,121 Z M177.400043,92 C178.354038,92 179.272045,92.3814029 179.947002,93.0623269 C180.622005,93.7432509 181,94.6692861 181,95.6316254 L181,157.368467 C181,158.33083 180.622005,159.256888 179.947002,159.937766 C179.271999,160.61869 178.354015,161 177.400043,161 L130.600003,161 C128.610958,161 127,159.374912 127,157.368421 L127,95.6315789 C127,93.625088 128.610958,92 130.600003,92 L177.400043,92 Z M112,128 L72,128 L72,155 L112,155 L112,128 Z M174,100 L134,100 L134,154 L174,154 L174,100 Z M115.400043,45 C116.354038,45 117.272045,45.3814261 117.947002,46.0623498 C118.622005,46.7432735 119,47.6693084 119,48.6316475 L119,110.368469 C119,111.330831 118.622005,112.256889 117.947002,112.937766 C117.271999,113.61869 116.354015,114 115.400043,114 L68.6000031,114 C66.6109582,114 65,112.374913 65,110.368422 L65,48.631601 C65,46.6251107 66.6109582,45 68.6000031,45 L115.400043,45 Z M112,52 L72,52 L72,106 L112,106 L112,52 Z M177.4,45 C179.280986,44.9954724 180.851507,46.4500171 181,48.3454634 L181,81.6545366 C180.851496,83.5499829 179.280986,85.0045275 177.4,85 L130.6,85 C128.719014,85.0045392 127.148493,83.5499829 127,81.6545366 L127,48.3454634 C127.148504,46.4500171 128.719014,44.9954724 130.6,45 L177.4,45 Z M174,51 L134,51 L134,78 L174,78 L174,51 Z" id="Fill-1" fill="#F2F3F3"></path>
+                <g id="Group-8" transform="translate(73.000000, 108.000000)">
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    </g>
+                    <text id="&gt;_" font-family="AndaleMono, Andale Mono" font-size="25" font-weight="normal" letter-spacing="0.989582813" fill="#000000">
+                        <tspan x="66" y="57">&gt;_</tspan>
+                    </text>
+                    <text id="CLI" font-family="Helvetica" font-size="12" font-weight="normal" letter-spacing="2.3" fill="#808080">
+                        <tspan x="60" y="17">CLI</tspan>
+                    </text>
+                </g>
+                <line x1="0.5" y1="33.5" x2="195.5" y2="33.5" id="Line-2" stroke="#F2F3F3" stroke-linecap="square"></line>
+                <line x1="73.5" y1="132.5" x2="227.5" y2="132.5" id="Line-2-Copy" stroke="#F2F3F3" stroke-linecap="square"></line>
+                <g id="Group-Copy-2" transform="translate(88.000000, 118.000000)">
+                    <path d="M2.84723671,2.37160959 L3.5691278,3.54530822 L2.16217993,5.83119178 L4.97504821,5.83119178 L5.69395968,7 L0,7 L2.00641749,3.73771233 L2.84723671,2.37160959 Z M5.69285003,0 L10,7 L8.61092988,7 L4.30552659,0 L5.69285003,0 Z M3.91974227,0.626912329 L7.84241793,6.99998082 L6.45324507,6.99998082 L3.22661997,1.75381644 L3.91974227,0.626912329 Z" id="Fill-1" fill="url(#linearGradient-3)"></path>
+                    <polyline id="Fill-1" points="0 7 5.71428571 7 4.99280791 5.80851064 2.16989838 5.80851064"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
